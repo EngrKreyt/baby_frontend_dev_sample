@@ -1,0 +1,8 @@
+HTML - 8
+CSS - 7
+Bootsrap - 7
+JavaScript -5
+Jquery - 2
+PHP - 7
+SQL -6
+Wordpress - 0
